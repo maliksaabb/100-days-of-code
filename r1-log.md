@@ -12,3 +12,6 @@ Will be focusing more on Javascript using
 
 ### R1D2
 On day 2 of #100DaysOfCode spent on Html, Css and especially JS to complete an assignment with rough Json data! A rough start & still getting lost but still alot more to do! Will be focusing more on Javascript using @freeCodeCamp!
+
+### R1D2 
+On day 3rd of #100DaysOfCode I spent most of the time on starting Javascript from scratch to have a better concept and understanding for the further tasks! Way to gooo!
